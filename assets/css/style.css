@@ -1,0 +1,27 @@
+.row-eq-height {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+}
+.button,
+{
+    margin: 5px;
+}
+button,
+div {
+    cursor: pointer;
+}
+#add-topic {
+    margin-left: 40px;
+}
+.navbar-light {
+    background-color: cornflowerblue;
+}
+.navbar {
+    height: 80px;
+    margin: 8px 8px 8px 8px;
+}
+.topics {
+    margin-right: 5px;
+}
